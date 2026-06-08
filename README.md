@@ -44,9 +44,19 @@ The project was completed using:
 
 ---
 
-## Repository Structure
+## Project Report
 
-Describe folders here.
+The complete project report is available inside the `report/` folder.
+
+Report includes:
+
+* Data Cleaning
+* Excel Dashboard
+* SQL Analysis
+* Exploratory Data Analysis (EDA)
+* Visualizations
+* Business Insights
+* Conclusion
 
 ---
 
